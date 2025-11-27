@@ -1,0 +1,7 @@
+setuptools
+notebook
+haversine
+global-land-mask
+black
+flake8
+pre-commit
